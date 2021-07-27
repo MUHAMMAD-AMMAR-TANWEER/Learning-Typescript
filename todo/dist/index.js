@@ -1,2 +1,2 @@
-console.clear();
-console.log("Adam's Todo List");
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
